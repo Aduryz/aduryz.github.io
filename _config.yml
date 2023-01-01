@@ -80,8 +80,8 @@ paginate_path:         /:num/
 # Theme
 # ---------------------------------------------------------------------------------------
 
-theme: jekyll-theme-hydejack #bundle install - jekyll serve
-# remote_theme: hydecorp/hydejack@v9 #github page
+# theme: jekyll-theme-hydejack #bundle install - jekyll serve
+remote_theme: hydecorp/hydejack@v9 #github page
 
 
 # Customizaton
