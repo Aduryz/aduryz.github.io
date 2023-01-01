@@ -88,7 +88,7 @@ remote_theme: hydecorp/hydejack@v9 #github page
 # ----------------------------------------------------------------------------------------
 
 #icon
-favicon: /favicon.ico
+favicon: /assets/icons//favicon.ico
 apple_touch_icon: /assets/img/logo.png
 
 # Sidebar image and theme color of the site.
