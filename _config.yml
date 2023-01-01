@@ -49,12 +49,14 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Example
-    url:               /example/
-  - title:             Documentation
-    url:               /docs/
   - title:             About
     url:               /about/
+  - title:             Project
+    url:               /project/
+  - title:             Blog
+    url:               /blog/
+  - title:             etc.
+    url:               /etc/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
@@ -63,8 +65,8 @@ legal:
     url:               /LICENSE/
   - title:             NOTICE
     url:               /NOTICE/
-  - title:             CHANGELOG
-    url:               /CHANGELOG/
+  - title:             HydejackDOCS
+    url:               /docs/
 
 # This text will appear in a `<small>` tag in the footer of every page.
 copyright:             Arduriz © 2023. All rights reserved.
