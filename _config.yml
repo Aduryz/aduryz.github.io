@@ -20,16 +20,15 @@
 lang:                  ko-KR, en-US
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Ariduriz.log
+title:                 Arduriz.log
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Hydejack is a boutique Jekyll theme for hackers, nerds, and academics,
-  with a focus on personal sites that are meant to impress.
+  배움이 없이는 재능을 넓힐 수 없고, 뜻이 없이는 배움을 이룰 수 없다를 신조로 삼으며 배우고 경험하는 중입니다.
 
 # A shorter description for the sidebar.
-tagline:               재능은 배움을 통해 얻어진다는 모토를 가지고 임베디드와 디지털 회로를 공부하고 있는 전자공학도입니다.
+tagline:               공학을 통한 인류의 행복 실천이라는 목표를 <br> 달성하기 위해 임베디드와 디지털 회로를 <br> 공부하고 있는 전자공학도입니다.
 
 # A list of keywords for your blog
 keywords:              []
@@ -82,7 +81,7 @@ paginate_path:         /:num/
 # Theme
 # ---------------------------------------------------------------------------------------
 
-# theme: jekyll-theme-hydejack #bundle install - jekyll serve
+# heme: jekyll-theme-hydejack #bundle install - jekyll serve
 remote_theme: hydecorp/hydejack@v9 #github page
 
 
@@ -95,12 +94,12 @@ apple_touch_icon: /assets/img/logo.png
 
 # Sidebar image and theme color of the site.
 accent_image:          /assets/img/sidebar-bg.jpg
-accent_color:          rgb(79,177,186)
+accent_color:          rgb(31,151,86) #green rgb(31,151,86) pink rgb(230,74,74) 
 
 # This is used for the `theme-color` meta tag,
 # which changes the background color of the browser UI in certain browsers.
 # Defaults to `accent_color`.
-theme_color:           rgb(25,55,71)
+theme_color:           rgb(31,151,86)
 
 # The string encoding which fonts to fetch from Google Fonts.
 # See: <https://hydejack.com/docs/configuration/>
@@ -123,7 +122,7 @@ defaults:
   - scope:
       path:            hyde/
     values:
-      accent_color:    rgb(38,139,210)
+      accent_color:    rgb(31,151,86)
       theme_color:     rgb(32,32,32)
       accent_image:
         background:    rgb(32,32,32)

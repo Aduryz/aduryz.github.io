@@ -13,6 +13,9 @@ redirect_from:
 
 <!--author-->
 
+"공학을 통한 인류의 행복 실천"이라는 목표를 달성하기 위해 임베디드와 디지털 회로를 공부하고 있는 전자공학도입니다. 
+"배움이 없이는 재능을 넓힐 수 없고, 뜻이 없이는 배움을 이룰 수 없다"를 신조로 삼으며 배우고 경험하는 중입니다.
+
 ## Hydejack
 
 A boutique Jekyll theme for hackers, nerds, and academics.  
