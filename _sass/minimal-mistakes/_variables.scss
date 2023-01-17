@@ -12,11 +12,11 @@ $doc-font-size: 16 !default;
 $paragraph-indent: false !default; // true, false (default)
 $indent-var: 1.3em !default;
 
-/* system typefaces */
-$serif: Georgia, Times, serif !default;
-$sans-serif: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI",
-  "Helvetica Neue", "Lucida Grande", Arial, sans-serif !default;
-$monospace: Monaco, Consolas, "Lucida Console", monospace !default;
+/* system typefaces */ // 적용은 여기서 해야함
+$serif: 'Noto Serif KR', Georgia, Times, serif !default;
+$sans-serif: "Pretendard", 'Noto Sans KR', -apple-system, BlinkMacSystemFont, "Roboto", Arial, sans-serif !default;
+$monospace: 'Fira Code', Consolas, monospace !default;
+$amphasis: 'GyeonggiTitleM';
 
 /* sans serif typefaces */
 $sans-serif-narrow: $sans-serif !default;
@@ -30,7 +30,7 @@ $calisto: "Calisto MT", serif !default;
 $garamond: Garamond, serif !default;
 
 $global-font-family: $sans-serif !default;
-$header-font-family: $sans-serif !default;
+$header-font-family: $amphasis !default; // 얘는 여기서 수정해야 수정됨
 $caption-font-family: $serif !default;
 
 /* type scale */
@@ -93,7 +93,7 @@ $flickr-color: #ff0084 !default;
 $foursquare-color: #0072b1 !default;
 $github-color: #171516 !default;
 $gitlab-color: #e24329 !default;
-$instagram-color: #517fa4 !default;
+$instagram-color: #e64a4a !default;
 $keybase-color: #ef7639 !default;
 $lastfm-color: #d51007 !default;
 $linkedin-color: #007bb6 !default;
