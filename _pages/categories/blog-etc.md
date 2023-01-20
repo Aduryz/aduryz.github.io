@@ -1,6 +1,6 @@
 ---
-title: "Projects"
-permalink: /projects/
+title: "Other Things"
+permalink: /otherthings/
 layout: category
 author_profile: true
 toc: true
@@ -8,7 +8,7 @@ toc_sticky: true
 ---
 
 
-**Projects** & **Toy Projects** that have gone ahead @ universities, etc.
+**git/github**, **jekyll**, etc.
 
-{% assign posts = site.categories.blog %}
+{% assign posts = site.categories.otherthings %}
 {% for post in posts %} {% include archive-single.html type=page.entries_layout %} {% endfor %}

@@ -1,7 +1,7 @@
 ---
-title: "etc"
+title: "et cetera"
 permalink: /etc/
-layout: archive
+layout: category
 author_profile: true
 toc: true
 toc_sticky: true
