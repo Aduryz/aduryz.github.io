@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "CHOI Hyunseo"
   avatar           : "/assets/images/blog/logo.png"
-  bio              : "**\"배움이 없이는 재능을 넓힐 수 없고, <br>뜻이 없이는 배움을 이룰 수 없다\"**를 <br>신조로 삼으며 배우고 경험하는 중입니다."
+  bio              : "**재능은 배움을 통해 얻어진다**는 가치관을 <br> 가지고 **임베디드**, **회로**, **프로그래밍**을 <br> 배우고 경험하는 중인 전자공학도입니다."
   location         : "Incheon, Korea"
   email            : # chs902m@gmail.com
   links:    
@@ -122,12 +122,12 @@ author:
     - label: "About"
       icon: "fas fa-fw fa-user"
       url: "https://github.com/Arduriz"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/Arduriz"
     - label: "Email"
       icon: "fas fa-fw fa-regular fa-envelope"
       url:  "mailto:chs902m@gmail.com"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/Arduriz"
     - label: "Instagram"
       icon: "fab fa-fw fa-brands fa-instagram"
       url: "https://instagram.com/choi.sunshining/"
@@ -253,7 +253,7 @@ whitelist:
 #  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
 #  - <base_path>/categories/my-awesome-category/index.html ~> path: /categories/
 #  - <base_path>/my-awesome-category/index.html ~> path: /
-category_archive: 
+category_archive:
   type: liquid
   path: /categories/
 tag_archive:

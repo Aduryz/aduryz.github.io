@@ -46,4 +46,11 @@ font-size: 1.5em;
 ## All posts
 
 {% assign posts = site.categories.blog %}
+{% assign posts = site.categories.embedded %}
+{% assign posts = site.categories.circuit %}
+{% assign posts = site.categories.programming %}
+{% assign posts = site.categories.otherthings %}
+
+{% assign posts = site.categories.githubpages %}
+
 {% for post in posts %} {% include archive-single.html type=page.entries_layout %} {% endfor %}
