@@ -12,31 +12,28 @@ toc_sticky: true
 
 <span style="
 font-family: 'GyeonggiTitleM';
-font-size: 1.5em;
+font-size: 1.3em;
 ">
-**[Embedded]**
-</span>
-
+[Embedded]
+</span> <br>
 <span style="
 font-family: 'GyeonggiTitleM';
-font-size: 1.5em;
+font-size: 1.3em;
 ">
-**[Circuit]**
-</span>
-
+[Circuit]
+</span> <br>
 <span style="
 font-family: 'GyeonggiTitleM';
-font-size: 1.5em;
+font-size: 1.3em;
 ">
-**[Programming]**
-</span>
-
+[Programming]
+</span> <br>
 <span style="
 font-family: 'GyeonggiTitleM';
-font-size: 1.5em;
+font-size: 1.3em;
 ">
-**[Other Things]**
-</span>
+[Other Things]
+</span> <br>
   
 [Embedded]: /embedded/
 [Circuit]: /circuit/

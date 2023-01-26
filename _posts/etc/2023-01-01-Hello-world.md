@@ -8,7 +8,8 @@ tag:
   - null
 last_modified_at: 2023-01-20T11:55:09.660Z
 ---
-> {{ page.excerpt }}
+{{ page.excerpt }}
+{: .notice--info}
 
 Portfolio 겸 배우고 경험한 것을 공유하고자 **Jekyll**과 **GitHub Pages**를 이용하여 블로그를 제작하게 되었다. <br>
 현재 이 블로그에 적용된 테마는 **Minimal Mistakes**다.

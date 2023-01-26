@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Arduriz.log"
 title_separator          : "_"
 subtitle                 : # "배우고 경험한 것을 적는 블로그"
-name                     : "Arduriz"
+name                     : "Arduriz.log"
 description              : "배우고 경험한 것을 적는 블로그"
 url                      : "https://arduriz.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -288,15 +288,19 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
-      show_date: true #추가
+      author_profile: true 
       read_time: true
       comments: # true
-      share: true
+      share: # true
       related: true
+      show_date: true #여기서부턴 내가 추가
+      toc: true
+      toc_sticky: true
+      toc_label: Table of Contents
+      toc_icon: " "
 
 # 내가 추가한 거
 atom_feed: # RSS hide
   hide: true
 
-date_format: "%Y. %m. %d"
+date_format: "%Y. %m. %d."

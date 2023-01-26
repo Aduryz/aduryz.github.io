@@ -2,9 +2,9 @@
 layout: archive
 ---
 
-{{ content }}
+<!-- {{ content }} // 왜 뜨는 지 모르는 캘린더 아이콘이 안 뜨게 됨-->
 
-<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
+<!-- <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3> -->
 
 {% if paginator %}
   {% assign posts = paginator.posts %}
@@ -15,7 +15,7 @@ layout: archive
 {% assign entries_layout = page.entries_layout | default: 'list' %}
 <div class="entries-{{ entries_layout }}">
   {% for post in posts %}
-    {% include archive-single-custom.html type=entries_layout %}
+    {% include archive-single-custom-home.html type=entries_layout %}
   {% endfor %}
 </div>
 

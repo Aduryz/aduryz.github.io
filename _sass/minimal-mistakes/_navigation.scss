@@ -83,7 +83,7 @@ $font-family: $amphasis !default;
       text-align: center;
       text-decoration: none;
       color: $muted-text-color;
-      border: 1px solid mix(#000, $border-color, 25%);
+      border: 1px solid mix(rgb(0, 0, 0), $border-color, 25%);
       border-radius: 0;
 
       &:hover {
@@ -510,15 +510,15 @@ $font-family: $amphasis !default;
   font-family: $amphasis;
   color: $gray;
   background-color: $background-color;
-  border: 1px solid $border-color;
+  //border: 1px solid $border-color;
   border-radius: $border-radius;
   -webkit-box-shadow: $box-shadow;
   box-shadow: $box-shadow;
 
   .nav__title {
-    color: #fff;
+    color: rgb(183, 183, 183);
     font-size: $type-size-6;
-    background: $primary-color;
+    background: $background-color;
     border-top-left-radius: $border-radius;
     border-top-right-radius: $border-radius;
   }
@@ -532,7 +532,7 @@ $font-family: $amphasis !default;
 .toc__menu {
   margin: 0;
   padding: 0;
-  width: 100%;
+  width: 150%;
   list-style: none;
   font-size: $type-size-6;
 
@@ -547,6 +547,7 @@ $font-family: $amphasis !default;
     font-weight: bold;
     line-height: 1.5;
     border-bottom: 1px solid $border-color;
+    font-family: $amphasis;
 
     &:hover {
       color: $text-color;
@@ -556,6 +557,7 @@ $font-family: $amphasis !default;
   li ul > li a {
     padding-left: 1.25rem;
     font-weight: normal;
+    font-family: $sans-serif;
   }
 
   li ul li ul > li a {

@@ -20,9 +20,9 @@
               <a href="{{ post.url }}">{{post.title}}</a>
             </span>  
             <small> 
-                <i class="fas fa-fw fa-calendar-alt" aria-hidden="true"> </i>{{ post.date | date: " %Y.%m.%d" }}
+                <i class="fas fa-fw fa-calendar-alt" aria-hidden="true"> </i>{{ post.date | date: " %Y. %m. %d." }}
               {% if site.tag_archive.type and post.tags[0] %}
-                {%- include post__taxonomy.html -%}
+                # {%- include post__taxonomy.html -%}
               {% endif %}
             </small>
         </div>

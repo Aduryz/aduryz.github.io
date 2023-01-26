@@ -6,10 +6,15 @@ categories:
   - githubpages
 tag:
   - blog
+toc: true
+toc_sticky: true
 
 date: 2023-01-20T11:55:09.660Z
 last_modified_at: 2023-01-20T11:55:09.660Z
 ---
+
+{{ page.excerpt }}
+{: .notice--info}
 
 - 마크다운에서는 맨 마지막 한 줄 띄어야 하는 듯
 
