@@ -1,5 +1,5 @@
 ---
-title: \[GitHub Pages 블로그\] 기본 설정
+title: GitHub Pages 블로그 - 기본 설정
 excerpt: _config.yml에서의 기본 설정
 
 categories:
@@ -98,7 +98,7 @@ author:
 - url을 주석처리하면 그 sns는 안 보이게 됨
 - fas icon 다른 것들도 적용가능, 사이트에 들어가서 가져오면 됨
 
-![그림9](/assets/images/post/blog-otherthings-githubpages/1-9.png) <br>
+![그림9](https://user-images.githubusercontent.com/65582244/215241416-b80a35aa-d46f-4dbc-a279-1caa5f0548c5.png) <br>
 이렇게 보임
 
 # 블로그 첫 페이지

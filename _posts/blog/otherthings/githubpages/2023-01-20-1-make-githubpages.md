@@ -1,5 +1,5 @@
 ﻿---
-title: \[GitHub Pages 블로그\] 생성
+title: GitHub Pages 블로그 - 생성
 excerpt: GitHub Pages와 Jekyll을 이용한 블로그 생성
 
 categories:

@@ -22,6 +22,14 @@ font-size: 1em;
 <span style="
 font-family: 'GyeonggiTitleM';
 font-size: 1em;
+color: #e64a4a
+">
+[※ Posting 방법과 필요한 문법, 기능들](/githubpages/posting)
+</span>
+
+<span style="
+font-family: 'GyeonggiTitleM';
+font-size: 1em;
 ">
 [1. \[GitHub Pages 블로그\] 생성](/githubpages/1-make-githubpages) <br>
 [2. \[GitHub Pages 블로그\] 기본 설정](/githubpages/2-basic-setting) <br>
