@@ -10,17 +10,36 @@ search: false
 
 // font import
 @font-face {
-    font-family: 'GyeonggiTitleM';
-    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_one@1.0/GyeonggiTitleM.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-}
-@font-face {
-  font-family: 'GyeonggiTitleL';
-  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_one@1.0/GyeonggiTitleL.woff') format('woff');
+  font-family: 'GyeonggiTitleB';
+  src: url('/fonts/경기천년제목_Bold.ttf') format('woff');
   font-weight: normal;
   font-style: normal;
 }
+@font-face {
+  font-family: 'GyeonggiTitleVB';
+  src: url('/fonts/경기천년제목V_Bold.ttf') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'GyeonggiTitleM';
+  src: url('/fonts/경기천년제목_Medium.ttf') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'GyeonggiTitleL';
+  src: url('/fonts/경기천년제목_Light.ttf') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Hack';
+  src: url('/fonts/Hack-Regular (noslab-1, slab-i, slashed-0).ttf') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
 @import url('https://fonts.googleapis.com/css2?family=Fira+Code&family=Noto+Sans+KR:wght@400;700&family=Noto+Serif+KR&display=swap');
 @import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.css');
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');

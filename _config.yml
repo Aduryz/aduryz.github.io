@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "CHOI Hyunseo"
   avatar           : "/assets/images/blog/logo.png"
-  bio              : "**재능은 배움을 통해 얻어진다**는 가치관을 <br> 가지고 **임베디드**, **회로**, **프로그래밍**을 <br> 배우고 경험하는 중인 전자공학도입니다."
+  bio              : "**재능은 배움을 통해 얻어진다**는 가치관을 가지고 **임베디드**, <br> **회로**, **프로그래밍**을 배우고 경험하는 중인 전자공학도입니다."
   location         : "Incheon, Korea"
   email            : # chs902m@gmail.com
   links:    

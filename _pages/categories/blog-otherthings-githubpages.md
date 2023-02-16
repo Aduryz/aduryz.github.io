@@ -31,9 +31,9 @@ color: #e64a4a
 font-family: 'GyeonggiTitleM';
 font-size: 1em;
 ">
-[1. \[GitHub Pages 블로그\] 생성](/githubpages/1-make-githubpages) <br>
-[2. \[GitHub Pages 블로그\] 기본 설정](/githubpages/2-basic-setting) <br>
-[3. \[GitHub Pages 블로그\] 폰트 변경](/githubpages/3-font) <br>
-[4. \[GitHub Pages 블로그\] 카테고리, 태그](/githubpages/4-category) <br>
-[5. \[GitHub Pages 블로그\] toc](/githubpages/5-toc) <br>
+[1. GitHub Pages 블로그 - 생성](/githubpages/1-make-githubpages) <br>
+[2. GitHub Pages 블로그 - 기본 설정](/githubpages/2-basic-setting) <br>
+[3. GitHub Pages 블로그 - 폰트 변경](/githubpages/3-font) <br>
+[4. GitHub Pages 블로그 - 카테고리, 태그](/githubpages/4-category) <br>
+[5. GitHub Pages 블로그 - toc](/githubpages/5-toc) <br>
 </span> <br>

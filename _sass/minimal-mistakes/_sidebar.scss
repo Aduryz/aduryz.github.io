@@ -57,7 +57,7 @@
   p,
   li {
     font-family: $sans-serif; // author bio, link font
-    font-size: $type-size-6;
+    font-size: $type-size-7;
     line-height: 1.5;
   }
 
@@ -200,9 +200,11 @@
     }
   }
 
+// 이건 내가 추가한 것, 얘로 sns링크 등만 편집 가능
   li{
     font-family: $amphasis;
     font-weight: bold;
+    font-size: $type-size-6;
   }
 
   .author__urls {

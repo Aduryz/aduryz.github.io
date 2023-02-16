@@ -45,7 +45,7 @@ Git은 [Git 설치 가이드](https://git-scm.com/book/ko/v2/%EC%8B%9C%EC%9E%91%
 쭉 설치가 되고 마지막에 CR하면 터미널이 꺼진다.
 
 ![그림5](/assets/images/post/blog-otherthings-githubpages/1-5.png) <br>
-cmd를 열고 ruby –v 명령어를 입력하여​ 루비가 잘 설치되었는지 확인해 본다.
+cmd를 열고 `ruby –v` 명령어를 입력하여​ 루비가 잘 설치되었는지 확인해 본다. (`ruby: No such file or directory -- –v (LoadError)`가 나온다면 `ruby –version`을 쳐보고 이래도 안되면 뭔가 오류가 있는 것.)
 
 테마가 들어있는 폴더에서 우클릭을 한 후 `visual studio code`를 연다. *(우클릭을 했는데 `Code로 열기`가 보이지 않는다면 아래 이미지의 박스를 체크하면서 다시 설치하면 된다.)*
 ![그림6](/assets/images/post/blog-otherthings-githubpages/1-6.png) <br>
@@ -54,7 +54,7 @@ cmd를 열고 ruby –v 명령어를 입력하여​ 루비가 잘 설치되었�
 
 `chcp 65001`를 실행한다. 인코딩을 부여하기 위한 명령어인데 실행하지 않을 경우 이후 진행하게 될 온갖 명령어에서 오류가 발생하므로 꼭 진행하여야 한다.
 
-이제 Ruby에서 지원하는 gem 명령어를 통해 Jekyll은 물론 종속된 필요한 라이브러리를 설치하자. 참고로, gem이란 루비에서 제공하는 라이브러리를 편리하게 설치할 수 있도록 지원되는 도구이다.
+이제 Ruby에서 지원하는 gem 명령어를 통해 Jekyll은 물론 종속된 필요한 라이브러리를 설치하자. 참고로, gem이란 루비에서 제공하는 라이브러리를 편리하게 설치할 수 있도록 지원되는 도구이다. <br>
 `gem install bundler jekyll minima jekyll-feed tzinfo-data rdiscount`
 
 완료되면 아래 코드를 차례로 입력한다.
