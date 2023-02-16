@@ -304,3 +304,5 @@ atom_feed: # RSS hide
   hide: true
 
 date_format: "%Y. %m. %d."
+
+github: [metadata] # GitHub Metadata: No GitHub API authentication could be found. Some fields may be missing or have incorrect data.해결
