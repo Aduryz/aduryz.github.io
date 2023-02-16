@@ -19,9 +19,8 @@ font-size: 1.3em;
 
 [GitHub Pages]: /githubpages/
 
-## All posts
+## Posts not included in other subcategory
 
 {% assign posts = site.categories.otherthings %}
-{% assign posts = site.categories.githubpages %}
 
 {% for post in posts %} {% include archive-single.html type=page.entries_layout %} {% endfor %}
