@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "en-US"
 title                    : "Arduriz.log"
-title_separator          : "_"
+title_separator          : "|"
 subtitle                 : # "배우고 경험한 것을 적는 블로그"
 name                     : "Arduriz.log"
 description              : "배우고 경험한 것을 적는 블로그"
@@ -96,9 +96,9 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "google-gtag", "custom"
+  provider               : google-gtag # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    tracking_id          :
+    tracking_id          : G-M2BCPF073T
     anonymize_ip         : # true, false (default)
 
 
@@ -121,7 +121,7 @@ author:
       # url: "https://facebook.com/"
     - label: "About"
       icon: "fas fa-fw fa-user"
-      url: "https://github.com/Arduriz"
+      url: "https://github.com/Arduriz/about"
     - label: "Email"
       icon: "fas fa-fw fa-regular fa-envelope"
       url:  "mailto:chs902m@gmail.com"
@@ -298,6 +298,7 @@ defaults:
       toc_sticky: true
       toc_label: Table of Contents
       toc_icon: " "
+      breadcrumb: true
 
 # 내가 추가한 거
 atom_feed: # RSS hide

@@ -28,9 +28,9 @@ last_modified_at: 2023-01-20T11:56:09.660Z
 <html>
 <head>
   <style>
-    h3.class {color:#e64a4a}
+    h2.class {color:#e64a4a}
   </style>
-<h3 class="class">Minimal Mistakes</h3>
+<h2 class="class">Minimal Mistakes</h2>
 </head>
 </html>
 약간의 페이드 아웃 애니메이션도 있어서 디자인적으로 좋음. 많은 블로그가 이 테마로 제작되어서 자료가 정말 많다는 것이 최대 장점. 기본적으로 제공해주는 설명도 매우 상세하게 작성되어있음.<br>
@@ -41,10 +41,29 @@ last_modified_at: 2023-01-20T11:56:09.660Z
 <https://github.com/sloth9143/sloth9143.github.io>
 
 # Portfolio
-## Freelancer 
+## Developer Folio
+<https://github.com/saadpasta/developerFolio> <br>
+매우 디자인이 마음에 들지만 지킬이 아니라 간단히 수정하기는 어려움
 
 ## Agency
+<https://y7kim.github.io/agency-jekyll-theme/> <br>
+무난하고 애니메이션과 상단바가 있는 것이 장점
 
+<html>
+<head>
+  <style>
+    h2.class {color:#e64a4a}
+  </style>
+<h2 class="class">Neumorphism</h2>
+</head>
+</html>
+
+<https://github.com/longpdo/neumorphism> <br>
+Neumorphism 디자인이 약간 구식 느낌이 나지만 그래도 좋음
+
+## modern-resume-theme
+<https://github.com/sproogen/modern-resume-theme> <br>
+진짜 간단한 포트폴리오 테마
 
 # Docs
 ## Docsy Jekyll
