@@ -16,17 +16,17 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Arduriz.log"
+title                    : "Aduryz.log"
 title_separator          : "|"
 subtitle                 : # "배우고 경험한 것을 적는 블로그"
-name                     : "Arduriz.log"
+name                     : "Aduryz.log"
 description              : "배우고 경험한 것을 적는 블로그"
-url                      : "https://arduriz.github.io"
+url                      : "https://aduryz.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "arduriz/arduriz.github.io"
+repository               : "aduryz/aduryz.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # "/assets/images/blog/logo.png"
-masthead_title           : "Arduriz.log"
+masthead_title           : "Aduryz.log"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -86,7 +86,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : "/assets/images/blog/logo.png"
+og_image                 : "/assets/images/blog/favicon.png"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -121,16 +121,16 @@ author:
       # url: "https://facebook.com/"
     - label: "About"
       icon: "fas fa-fw fa-user"
-      url: "https://arduriz.github.io/about"
+      url: "https://aduryz.github.io/about"
     - label: "Email"
       icon: "fas fa-fw fa-regular fa-envelope"
-      url:  "mailto:chs902m@gmail.com"
+      url:  "mailto:the.choihs@gmail.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/Arduriz"
+      url: "https://github.com/Aduryz"
     - label: "Instagram"
       icon: "fab fa-fw fa-brands fa-instagram"
-      url: "https://instagram.com/choi.sunshining/"
+      url: "https://instagram.com/choi.sunshing/"
 
 # Site Footer
 footer:
